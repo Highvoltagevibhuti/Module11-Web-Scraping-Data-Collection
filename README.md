@@ -12,6 +12,7 @@ Mars Data Analysis
 Analyze your dataset by using Pandas functions to answer the following questions:
 
 1. How many months exist on Mars?
+   
 month
 
 1     174
